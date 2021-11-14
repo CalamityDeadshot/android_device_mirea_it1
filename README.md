@@ -1,0 +1,1 @@
+Device tree for imaginary Mirea IT1 android device
